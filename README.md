@@ -27,6 +27,5 @@ AFTER running script:
 1. Amazing.txt modified on 20/2/2017
 2. Potatoe.jpg modified on 21/2/2017
 3. 19-02-2017/inside_job.zip modified 19/02/2017
-<br>
 4. 20-02-2017/Amazing.txt modified on 22/02/2017
 5. 21-02-2017/Potatoe.jpg modified on 22/02/2017

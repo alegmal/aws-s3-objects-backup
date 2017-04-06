@@ -28,7 +28,7 @@ from datetime import datetime
 #################################################################################################
 
 # bucket for script to run on
-bucket_name = 'unique-bucket-321'
+bucket_name = 'my-unique-bucket-name'
 
 # How old file's last modified should be (in days) for it to be moved to new bucket
 desired_age = 1

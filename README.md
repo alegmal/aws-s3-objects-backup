@@ -7,7 +7,7 @@ This script runs on amazon S3 bucket (you specify its name in code) and backs up
 You specify format of wanted backup folders.
 
 EXAMPLE of running script on 22/02/2017 with days specified as 1 days or older and format being %d-%m-%Y (day, month, year)
-==============
+-------------
 
 Things to note:
 

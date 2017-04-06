@@ -13,8 +13,8 @@ Things to note:
 * Before copiying a file, script checks if file already there to reduce traffic costs (checking is cheaper than copying)
 * Be aware of 5 minutes limiti on amazon lambda
 <br>
-**EXAMPLE** of running script on 22/02/2017 with days specified as 1 days or older and format being %d-%m-%Y (day, month, year)
-<br>
+EXAMPLE of running script on 22/02/2017 with days specified as 1 days or older and format being %d-%m-%Y (day, month, year)
+<br><br>
 BEFORE:
 
 1. Amazing.txt modified on 20/2/2017

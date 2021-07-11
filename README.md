@@ -1,7 +1,5 @@
 # objects_backup
 
-Hi there!
-
 This script runs on amazon S3 bucket (you specify its name in code) and backs up files in it older than X days (you specify X).
 
 You specify format of wanted backup folders.
